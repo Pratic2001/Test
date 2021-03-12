@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+body {
+  background-color: #eaeaea;
+}
+
+img:hover{
+  background-color: #f9ed69;
+}
+.bacon {
+  background-color: #f08a5d;
+}
+
+.cookie {
+  background-color: #ff2e63;
+}
